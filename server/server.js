@@ -12,7 +12,7 @@ app.use(
 )
 
 app.get('/api/hello', (req, res) => {
-  res.send('Hello from the server!')
+  res.json({ message: 'Hello', name: 'John' })
 })
 
 const PORT = process.env.PORT || 4000
