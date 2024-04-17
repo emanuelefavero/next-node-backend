@@ -35,3 +35,7 @@ npm run dev
 - [Express.js Documentation](https://expressjs.com/)
 - [Concurrently Documentation](https://www.npmjs.com/package/concurrently)
 - [Nodemon Documentation](https://www.npmjs.com/package/nodemon)
+
+## License
+
+- [MIT](LICENSE.md)
