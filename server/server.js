@@ -11,7 +11,7 @@ app.use(
   })
 )
 
-app.get('/api/hello', (req, res) => {
+app.get('/api/data', (req, res) => {
   res.json({ message: 'Hello', name: 'John' })
 })
 
